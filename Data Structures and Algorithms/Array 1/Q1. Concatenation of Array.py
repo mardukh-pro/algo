@@ -9,6 +9,5 @@ class Solution:
 
 lst = [1,2,3]
 
-
 solution = Solution()
 print(solution.getConcatenation(lst))
